@@ -42,5 +42,5 @@ trigger:
           params:
             person: keen
             messages:
-            - text: I didn't get that... if you run into issues - please ask team members for advice!
+            - text: I'm not that sofisticated sorry for that... if you run into issues - please ask team members for advice!
               delay: 2500

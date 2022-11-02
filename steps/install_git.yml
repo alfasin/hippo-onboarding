@@ -29,7 +29,7 @@ trigger:
           params:
             person: keen
             messages:
-            - text: you're killing it!
+            - text: you're killing it! Now please login to github and make sure that you were added to Hippo organization - if not please ask your team leader to help you with that!
               delay: 1300
         - actionId: finish_step
       else:

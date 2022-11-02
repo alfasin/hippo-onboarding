@@ -29,7 +29,7 @@ trigger:
           params:
             person: keen
             messages:
-            - text: you're da man, or da woman, or whatever pronoun you want... shit this stuff is difficult for a bot like me...
+            - text: now thanks to you we'll be able to run node, awesome!
               delay: 3000
         - actionId: finish_step
       else:
@@ -38,5 +38,5 @@ trigger:
           params:
             person: keen
             messages:
-            - text: I didn't get that... if you run into issues - please ask team members for advice!
+            - text: I'm just a simple bot sorry for that... if you run into issues - please ask team members for advice!
               delay: 2500
