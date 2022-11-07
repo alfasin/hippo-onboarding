@@ -29,7 +29,7 @@ trigger:
           params:
             person: keen
             messages:
-            - text: new level of awesomeness has been unlocked - way to go!
+            - text: "A new level of awesomeness has been unlocked - way to go!""
               delay: 1300
         - actionId: finish_step
       else:
