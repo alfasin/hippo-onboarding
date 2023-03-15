@@ -2,7 +2,7 @@ id: hippo-onboarding-3
 title: Hippo setup
 subtitle: Hippo Onboarding
 repository: null
-description: "In order to preper our machine to run Hippo code there are some dependencies we need to install first"
+description: "In order to prepare our machine to run Hippo code there are some dependencies we need to install first"
 summary: "We'll install a few dependencies such as: Homebrew, git, docker, nvm, node, yarn, typescript, and postgres"
 level: beginner
 steps:
